@@ -1,16 +1,6 @@
 # wmt_gridview_assessment
 
-A new Flutter project.
+A flutter motivational quotes UI design using gridview.
+![gridview1](https://user-images.githubusercontent.com/72406927/213945097-1fc6bf91-8ff8-47b1-95ab-7516fd243dd0.PNG)
+![gridview2](https://user-images.githubusercontent.com/72406927/213945107-c88421db-4d31-4fff-889d-90368e11b19c.PNG)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
